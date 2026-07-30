@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-30T00:38:20+00:00",
+  "sourceBuilds": 2055,
+  "sourceRoofBuilds": 981,
+  "sourceSidingBuilds": 1074,
+  "sourceProperties": 1232,
+  "pins": 1229,
+  "selectedTradeEntries": 2012,
+  "sameTradeBuildsSuperseded": 43,
+  "duplicatePublicAddressKeys": 0,
+  "duplicateAddressGroupsCollapsed": 3,
+  "sourcePropertiesCollapsedByAddress": 3,
+  "coordinateCollisionGroupsOffset": 2,
+  "roofOnlyPins": 178,
+  "sidingOnlyPins": 268,
+  "multiTradePins": 783,
+  "fullyPopulatedTradeEntries": 401,
+  "missing": {
+    "color": 1198,
+    "manufacturer": 1177,
+    "productLine": 1178,
+    "yearInstalled": 1557
+  },
+  "accountingValid": true,
+  "containsPhotos": false,
+  "containsSalesforceIds": false,
+  "containsFullInstallationDates": false
+}

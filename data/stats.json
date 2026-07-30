@@ -1,0 +1,11 @@
+{
+  "total": 1229,
+  "cities": 93,
+  "states": [
+    "MD",
+    "VA"
+  ],
+  "roofOnly": 178,
+  "sidingOnly": 268,
+  "multiTrade": 783
+}
