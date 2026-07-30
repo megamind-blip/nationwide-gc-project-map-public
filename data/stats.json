@@ -1,24 +1,21 @@
 {
-  "totalBuilds": 9831,
-  "totalProperties": 5830,
-  "cities": 306,
+  "totalBuilds": 9797,
+  "totalProperties": 5812,
+  "cities": 298,
   "states": [
-    "AL",
-    "CO",
     "DC",
     "FL",
-    "IL",
     "MD",
     "NJ",
     "PA",
     "VA"
   ],
-  "stateCount": 9,
+  "stateCount": 6,
   "categories": {
-    "Gutters": 373,
-    "Other": 224,
-    "Roofing": 5481,
-    "Siding": 3670,
+    "Gutters": 365,
+    "Other": 225,
+    "Roofing": 5458,
+    "Siding": 3666,
     "Solar": 83
   }
 }
