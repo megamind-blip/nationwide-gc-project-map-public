@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T16:55:50+00:00",
-  "sourceBuilds": 9363,
-  "publicBuilds": 9359,
-  "sourceProperties": 5567,
-  "pins": 5557,
+  "generatedAt": "2026-07-30T19:15:53+00:00",
+  "sourceBuilds": 9833,
+  "publicBuilds": 9831,
+  "sourceProperties": 5844,
+  "pins": 5830,
   "states": [
     "AL",
     "CO",
@@ -16,32 +16,32 @@
     "VA"
   ],
   "categoryBuilds": {
-    "Gutters": 298,
-    "Other": 183,
-    "Roofing": 5328,
-    "Siding": 3474,
-    "Solar": 76
+    "Gutters": 373,
+    "Other": 224,
+    "Roofing": 5481,
+    "Siding": 3670,
+    "Solar": 83
   },
   "categoryPins": {
-    "Gutters": 296,
-    "Other": 164,
-    "Roofing": 5230,
-    "Siding": 3416,
-    "Solar": 73
+    "Gutters": 370,
+    "Other": 198,
+    "Roofing": 5377,
+    "Siding": 3606,
+    "Solar": 79
   },
-  "multiCategoryPins": 3478,
+  "multiCategoryPins": 3606,
   "maxBuildsPerProperty": 9,
   "duplicatePublicAddressKeys": 0,
-  "duplicateAddressGroupsCollapsed": 8,
-  "sourcePropertiesCollapsedByAddress": 8,
-  "coordinateCollisionGroupsOffset": 6,
-  "droppedNonUsBuilds": 4,
-  "sanitizedStreets": 3,
+  "duplicateAddressGroupsCollapsed": 13,
+  "sourcePropertiesCollapsedByAddress": 13,
+  "coordinateCollisionGroupsOffset": 7,
+  "droppedNonUsBuilds": 2,
+  "sanitizedStreets": 5,
   "missing": {
-    "color": 7621,
-    "manufacturer": 6202,
-    "productLine": 6833,
-    "yearInstalled": 6919
+    "color": 7921,
+    "manufacturer": 6456,
+    "productLine": 7112,
+    "yearInstalled": 6958
   },
   "accountingValid": true,
   "containsPhotos": false,

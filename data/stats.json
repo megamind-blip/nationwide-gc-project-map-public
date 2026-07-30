@@ -1,7 +1,7 @@
 {
-  "totalBuilds": 9359,
-  "totalProperties": 5557,
-  "cities": 293,
+  "totalBuilds": 9831,
+  "totalProperties": 5830,
+  "cities": 306,
   "states": [
     "AL",
     "CO",
@@ -15,10 +15,10 @@
   ],
   "stateCount": 9,
   "categories": {
-    "Gutters": 298,
-    "Other": 183,
-    "Roofing": 5328,
-    "Siding": 3474,
-    "Solar": 76
+    "Gutters": 373,
+    "Other": 224,
+    "Roofing": 5481,
+    "Siding": 3670,
+    "Solar": 83
   }
 }
