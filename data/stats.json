@@ -1,21 +1,23 @@
 {
-  "totalBuilds": 9797,
-  "totalProperties": 5812,
-  "cities": 298,
+  "total": 6255,
+  "cities": 328,
   "states": [
+    "20706",
     "DC",
     "FL",
+    "M",
     "MD",
+    "MD.",
     "NJ",
     "PA",
     "VA"
   ],
-  "stateCount": 6,
-  "categories": {
-    "Gutters": 365,
-    "Other": 225,
-    "Roofing": 5458,
-    "Siding": 3666,
-    "Solar": 83
-  }
+  "categoryPins": {
+    "Gutters": 362,
+    "Other": 199,
+    "Roofing": 5690,
+    "Siding": 3861,
+    "Solar": 79
+  },
+  "multiCategory": 3741
 }

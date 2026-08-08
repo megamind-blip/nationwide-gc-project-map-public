@@ -1,13 +1,16 @@
 {
-  "generatedAt": "2026-07-30T22:33:42+00:00",
+  "generatedAt": "2026-08-08T15:53:48+00:00",
   "sourceBuilds": 9834,
-  "publicBuilds": 9797,
+  "publicBuilds": 10385,
   "sourceProperties": 5844,
-  "pins": 5812,
+  "pins": 6255,
   "states": [
+    "20706",
     "DC",
     "FL",
+    "M",
     "MD",
+    "MD.",
     "NJ",
     "PA",
     "VA"
@@ -15,18 +18,18 @@
   "categoryBuilds": {
     "Gutters": 365,
     "Other": 225,
-    "Roofing": 5458,
-    "Siding": 3666,
+    "Roofing": 5787,
+    "Siding": 3925,
     "Solar": 83
   },
   "categoryPins": {
     "Gutters": 362,
     "Other": 199,
-    "Roofing": 5361,
-    "Siding": 3602,
+    "Roofing": 5690,
+    "Siding": 3861,
     "Solar": 79
   },
-  "multiCategoryPins": 3596,
+  "multiCategoryPins": 3741,
   "maxBuildsPerProperty": 7,
   "duplicatePublicAddressKeys": 0,
   "duplicateAddressGroupsCollapsed": 13,
@@ -45,5 +48,8 @@
   "accountingValid": true,
   "containsPhotos": false,
   "containsSalesforceIds": false,
-  "containsFullInstallationDates": false
+  "containsFullInstallationDates": false,
+  "bbImportAddedPins": 443,
+  "bbImportMergedPins": 0,
+  "bbImportNote": "Merged Bay Brothers Co historical Closed Out imports (BB-*) geocoded via Census; material fields Not recorded when absent in source."
 }
